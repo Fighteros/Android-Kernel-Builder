@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "Vayu-stock",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
-      "branch": "vayu-r-oss",
+      "name": "Vayu-D8G",
+      "repo": "https://github.com/diphons/D8G_Kernel_SM8150",
+      "branch": "13",
       "device": "vayu"
     },
     "withKernelSU": true,
