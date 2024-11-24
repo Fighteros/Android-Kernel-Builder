@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "Vayu-D8G",
-      "repo": "https://github.com/diphons/D8G_Kernel_SM8150",
-      "branch": "me",
+      "name": "Vayu-LuffyTaro008",
+      "repo": "https://github.com/LuffyTaro008/android_kernel_xiaomi_vayu/",
+      "branch": "4.14.320",
       "device": "vayu"
     },
     "withKernelSU": true,
