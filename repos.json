@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "Vayu-D8G",
       "repo": "https://github.com/diphons/D8G_Kernel_SM8150",
-      "branch": "13",
+      "branch": "me",
       "device": "vayu"
     },
     "withKernelSU": true,
